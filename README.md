@@ -1,5 +1,7 @@
 # Aprendé lo esencial de CSS en 30 Días!🎨
 
+![github-html (8)](https://github.com/user-attachments/assets/90e6c1ff-9b37-406c-b7d2-ef63adbeb817)
+
 ¡Bienvenido!
 
 Soy Cristian Manuel Veliz, tu profesor de programación.
@@ -20,6 +22,42 @@ Si ya completaste ese repositorio, ¡estás listo para dar el siguiente paso y a
 - Hacer tu portafolio responsivo para dispositivos móviles y desktop.
 
 ---
+
+## 🎯 **¿Qué encontrarás aquí?**
+- ✅ Una guía paso a paso para aprender CSS desde cero.
+- ✅ Archivos organizados por día (`dias/diaX.md`).
+- ✅ Ejemplos de un portafolio con HTML y CSS y contenido extra.
+
+---
+## ¿Cómo apoyar el proyecto?
+
+Si te ha sido útil este repositorio, por favor:
+
+- ⭐**Dame una estrella ⭐** en este repositorio,
+- 🛠️ **Comparte este repositorio con otras personas.**
+- 🔗 **Sígueme en mis redes sociales**:
+  - [Twitter](https://x.com/Manvel_0)
+  - [LinkedIn](https://www.linkedin.com/in/cristian-manuel-veliz-/)
+  - [Instagram](https://www.instagram.com/manudev.19)
+  - [Youtube](https://www.youtube.com/@cristianmanuelveliz)
+  - [TikTok](https://www.tiktok.com/@manudev.19)
+  - [Facebook](https://www.facebook.com/profile.php?id=61566878459147)
+  - [Discord](https://discord.gg/u2ATyxKc)
+  - [Canal de Whatsapp](https://www.whatsapp.com/channel/0029VakRwLd5EjxyUulkF32j)
+  - [Canal de Telegram](https://t.me/manudeves)
+  - [Fiverr](https://www.fiverr.com/crimanvel?up_rollout=true)
+---
+## 📅 **Reserva tu clase gratuita**
+
+🎓 ¿Quieres aprender más sobre programación o CSS? ¡Reserva una clase gratuita conmigo! Haz clic en el siguiente enlace para elegir tu turno:
+
+👉 **(https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0HG25Sux8f2fGPpcppY5a-voU1aXwXDeMQPTJQbBhJqrV324nal_3QrLRwsyZzAS8ffRoM-Qbl)
+
+---
+¡Espero que disfrutes aprendiendo CSS y que este repositorio sea de gran ayuda en tu camino como programador! 😄
+## ¡Bienvenidos al Desafío!
+
+Este es un reto de **30 días para aprender HTML**, donde construirás tu propio **portafolio personal** desde el primer día. 
 
 ## 🗂️ Estructura del curso
 
@@ -108,5 +146,15 @@ Al final de los 30 días, tendrás un **portafolio web completamente funcional y
 - Tener un navegador web.
 
 ---
+### **Instrucciones para empezar:**
+1. **Clona el repositorio**  
+   Clona este repositorio en tu máquina local para comenzar:
+
+   ```bash
+   git clone https://https://github.com/crimanvel/ManuDev-Aprende-CSS-En-Un-Mes.git
+   cd ManuDev-Aprende-CSS-En-Un-MeS
+o puedes descargar la carpeta comprimida si es que aún no dominas git bash o la terminal de tu sistema operativo.
+2. Dirigite a la carpeta dias y dentro, al archivo del primer día!
 
 ¡Manos a la obra! 🚀
+ÉXITOS EN ESTE CAMINO DE APRENDIZAJE! NO ESTÁS SOLO!
